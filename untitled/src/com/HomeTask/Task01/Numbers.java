@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Numbers{
 public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
-  //  System.out.println("Ты меня заебал!может ты число введешь!?");
+  //  System.out.println("может ты число введешь!?");
  // int j=sc.nextInt();
 
 int n=(int) (((Math.random())*155)+5);
