@@ -1,4 +1,4 @@
-package com.HomeTask;
+package com.HomeTask.Task01;
 import  java.util.*;
 /**
  * Created by Dmitry on 29.10.14.
