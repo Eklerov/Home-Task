@@ -14,7 +14,8 @@ public class ArrayAbc
                 Mas[i][h]=(int)(Math.random()*11)-5;
                 System.out.print(Mas[i][h]+" ");
 
-                if(h==0)Mas1[i]=Mas[i][h];
+                if(h==0)
+                    Mas1[i]=Mas[i][h];
                 else Mas1[i]*=Mas[i][h];
 
                 if(h==Mas[i].length-1)
